@@ -1,0 +1,8 @@
+for execution of this program 
+step 1: Download python software based on your system requirement
+step2: After downloading install files 
+then create a new file 
+
+CHESS PROGRAM IS AN MULTIPLAYER GAME CREATED FOR 2 PLAYERS
+and by the way in this code instead of chess pieces i a have used Unicode symbols
+and after u enter start and end position and press enter
